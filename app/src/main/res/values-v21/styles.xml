@@ -1,0 +1,23 @@
+<resources>
+
+    <!-- style for GoalActivity -->
+    <style name="GoalTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:actionBarStyle">@style/ThemeActionBar</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <!-- Support library compatibility -->
+        <item name="actionBarStyle">@style/ThemeActionBar</item>
+        <item name="windowActionBarOverlay">true</item>
+    </style>
+
+    <style name="ThemeActionBar"
+        parent="Widget.AppCompat.Light.ActionBar">
+        <item name="android:background">@drawable/background_toolbar_translucent</item>
+        <!-- Support library compatibility -->
+        <item name="background">@drawable/background_toolbar_translucent</item>
+    </style>
+
+</resources>

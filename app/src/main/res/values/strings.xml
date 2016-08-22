@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Alex</string>
+    <string name="activity_image_trans">activity_image_transition</string>
+    <string name="activity_text_trans">activity_text_trans</string>
+    <string name="activity_state_trans">activity_state_trans</string>
+    <string name="activity_background_trans">activity_background_trans</string>
+    <string name="your_rules">Your Rules</string>
+    <string name="goals">Goals</string>
+    <string name="total_amount">$%.2f</string>
+</resources>

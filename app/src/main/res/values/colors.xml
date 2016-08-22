@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#28b7df</color>
+    <color name="colorPrimaryDark">#1fa8ce</color>
+    <color name="colorAccent">#3146b4</color>
+    <color name="mainBackground">#eaeaea</color>
+    <color name="colorRipple">#333333</color>
+    <color name="blackAlpha">#50000000</color>
+    <color name="divider">#eeeeee</color>
+    <color name="dividerRecycler">#dddddd</color>
+</resources>
